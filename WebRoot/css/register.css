@@ -1,0 +1,50 @@
+@CHARSET "UTF-8";
+/*注册的主题框*/
+.reg_main
+{
+	width: 1000px;
+	height: 650px;
+	background-color:white; 
+	margin: 0 auto;   
+	margin-top: 25px;
+	
+}
+/*左边功能导航*/
+.left_function
+{
+	width:270px;
+	height:650px;
+	float:left;
+	background-color: gray;
+}
+.left_function img
+{
+	float:right;
+}
+/*右边注册的div*/
+.reg_table1
+{
+	width:720px;
+	height:650;
+	float:left;
+	margin-left:5px;
+}
+/*注册输入框*/
+.tab_td1
+{
+	width: 110px;
+	text-align: right;
+	font-size: 12px;
+	font-weight: bold;
+	color: #808080;
+	padding-right: 10px;
+}
+/*控制一些注册信息的根据类型不同显示与否*/
+.stu_info
+{
+	display: none;
+}
+.work_info
+{
+	
+}

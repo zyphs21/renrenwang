@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+.foot
+{
+	width: 1000px;
+	height:40px;
+	background-color: lime;
+	margin: 0 auto;
+}
+.navi1
+{
+	float: right;
+	list-style:none
+}
+.navi1 li
+{
+	float: left;
+}

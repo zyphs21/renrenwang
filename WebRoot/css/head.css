@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+.Tophead
+{
+	 height: 101px;
+	 width: 1000px;
+	 background-color: #3B5888;
+	 margin: 0 auto;
+}
+
+.TopheadImg1
+{
+	height:65px;
+	width: 1000px;
+}
+.navbar
+{
+	height:42px;
+	width:1000px;
+}
+.TopheadImg2
+{
+	height:36px;
+	width:100px;
+}
+
+

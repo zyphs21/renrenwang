@@ -1,0 +1,35 @@
+@CHARSET "UTF-8";
+body
+{
+	font-size:12px;
+	margin: 0;
+}
+.font1
+{
+	font-size: 18px;
+	font-weight:bold;
+	font-family: "华文细黑";
+}
+/*注册页面的确认按钮*/
+.button1{
+   
+   	background-color:   #ffffff;
+   	cursor:hand;
+	width: 200px;
+	height: 30px;
+   	background-image:   url(/renrenwang/image/front/regbtn.gif);
+   	background-repeat:   no-repeat;
+   	background-position:   center;
+   	text-align:   center;
+   	border:  none;
+ } 
+ /*注册页面提示文字背景*/
+ .spanVal
+ {
+	background-color: #FFFFCD;
+	font-size: 12px;
+	padding: 3px;
+	width:220px;
+	height:14px;
+	border: 3px #E7C437 solid;
+}
